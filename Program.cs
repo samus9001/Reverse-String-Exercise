@@ -8,10 +8,10 @@
             Console.WriteLine("Hello, please type a word and I will type it backwards!");
             string UserInput = Console.ReadLine();
 
-            char[] arr = UserInput.ToCharArray();
-            Array.Reverse(arr);
-
-            Console.WriteLine(new String(arr));
+            for (int i = UserInput.Length - 1; i >= 0; i--)
+            {
+                Console.WriteLine(UserInput[i]);
+            }
         }
     }
 }
