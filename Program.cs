@@ -10,7 +10,7 @@
 
             for (int i = UserInput.Length - 1; i >= 0; i--)
             {
-                Console.WriteLine(UserInput[i]);
+                Console.Write(UserInput[i]);
             }
         }
     }
