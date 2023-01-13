@@ -5,6 +5,7 @@
 - This program takes the user's input of letters that make a word, and outputs it in reverse order.
 - This program can be used to see what a word looks like written backwards as well as to check if a given word is a palindrome.
 - The program uses a for loop to look at the length of the given string and then decreases the value of the variable in the loop condition in order to stop it from executing once all the letters have been run through, and then does a string comparison check to see if the word is a palindrome. 
+- Once the game has been completed the user can then play the game again by effectively restarting the program, or exit the game closing the program.
 
 ### Example
 ![image](https://user-images.githubusercontent.com/62300593/211227729-ad5778c3-7070-4054-970d-2954f7e5b253.png)
