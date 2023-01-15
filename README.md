@@ -16,4 +16,4 @@ This is a simple program that was made as an exercise to learn how strings can b
 
 ### Getting Started
 
-To use the program run the ReverseString.exe file then input any word or combination of letters into the console window and press the Enter key to see the output.
+To use the program download the bin.zip file from the Releases page, then run the ReverseString.exe file then input any word or combination of letters into the console window and press the Enter key to see the output.
